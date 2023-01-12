@@ -1,0 +1,5 @@
+list=[(8, 2, 3, 0, 7]
+total=0
+for ele range (0,len(list)):
+    total+=list[ele]
+print("Sum of all elements = "+total)    
